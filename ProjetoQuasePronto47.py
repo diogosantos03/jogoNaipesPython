@@ -1,4 +1,4 @@
-                         #MINIPROJETO JOGO DE NAIPES.
+                         #MINI-PROJETO JOGO DE NAIPES.
 
 #Uso de recursos: (laços de repetição, estruturas de decisão, funções e listas)
                                 #DIOGO SANTOS
